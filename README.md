@@ -1,4 +1,4 @@
-# AutomationML UML Profile
+# AutomationML Profile for UML/SysML models
 
 This folder contains an AutomationML UML Profile
 The profile has been presented in the following paper
